@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 207f2910a31753143ae0a5f71a23d82d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 5cbbe11a43f948f7923f731b15436f4e, type: 3}
+  targetTypeAssemblyQualifiedName: ScriptableObjects.Data.DialogueData, Assembly-CSharp,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  strategy: 1
+  groupedListField: dialogueLines
+  groupedListItemTypeAssemblyQualifiedName: ScriptableObjects.Data.DialogueLine,
+    Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null

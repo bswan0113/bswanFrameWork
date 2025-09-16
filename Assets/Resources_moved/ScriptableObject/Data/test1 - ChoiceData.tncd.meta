@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 797c085df77f2604685aefc883fb8756
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 5cbbe11a43f948f7923f731b15436f4e, type: 3}
+  targetTypeAssemblyQualifiedName: ScriptableObjects.Data.ConditionData, Assembly-CSharp,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  strategy: 0
+  groupedListField: 
+  groupedListItemTypeAssemblyQualifiedName: 
